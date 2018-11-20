@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2vw;
+}
+
+.result {
+  position: absolute;
+  background-color: white;
+  font-size: 10vw;
+  padding: 4vw;
+  margin: 0;
+}
