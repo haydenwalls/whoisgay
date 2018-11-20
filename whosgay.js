@@ -2,8 +2,8 @@ $(document).ready(() => {
   $('.result').hide();
   $('.images').hide();
   $('button').on('click', () => {
-    $('.result').slideDown(600);
-    $('.images').fadeIn(300);
+    $('.result').slideDown(250);
+    $('.images').fadeIn(100);
     $('.form').hide();
   });
 });
